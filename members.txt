@@ -1,3 +1,7 @@
 Användare på github:bernhard5505
 namn: Bernhard Edvinsson
 epost: bernhard.edvinsson.6860@student.uu.se
+
+Användare på github:nohu3583
+namn: Noah Huizar 
+epost: Noah.huizar.3583@student.uu.se
